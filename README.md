@@ -7,8 +7,8 @@ Confira o tutorial no link abaixo:
 https://www.youtube.com/watch?v=zWw0npNDkVM 
 <br>
 <br>
-
-<img src="https://github.com/alvesmgiovana/landing-page-inovart/assets/146298988/368e5c66-2373-45da-9e23-e62d96621368"> &nbsp;
+<img src="https://user-images.githubusercontent.com/146298988/278168920-80eb3db8-18ab-46f5-b889-000a307cd9e8.png">
+<img src="https://user-images.githubusercontent.com/146298988/278168916-4c2d9187-3bb5-45d3-a749-989411b9cfd1.png"> 
 
 ## Tech
 Na criação desse formulário, foram utilizadas as seguintes linguagens:
