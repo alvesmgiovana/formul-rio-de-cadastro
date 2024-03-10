@@ -1,5 +1,5 @@
 ## Formulário de cadastro - RESPONSIVO
-Este é um projeto simples criado pela Larissa Kich e ensinado em seu canal do youtube. Através do mesmo, foi possível sintetizar conceitos básicos de linguagens de programação web. &nbsp;
+Este é um projeto simples criado pela <strong>Larissa Kich</strong> e ensinado em seu canal do youtube. Através do mesmo, foi possível sintetizar conceitos básicos de linguagens de programação web. &nbsp;
 
 <img src="https://user-images.githubusercontent.com/146298988/278168920-80eb3db8-18ab-46f5-b889-000a307cd9e8.png">
 <img src="https://user-images.githubusercontent.com/146298988/278168916-4c2d9187-3bb5-45d3-a749-989411b9cfd1.png"> 
@@ -7,7 +7,7 @@ Este é um projeto simples criado pela Larissa Kich e ensinado em seu canal do y
 ## Informações:
 Na criação deste formulário, foram utilizadas as seguintes linguagens:
 
-• HTML e CSS.
+• <strong>HTML e CSS.</strong>
 <br>
 
 ## Créditos:
